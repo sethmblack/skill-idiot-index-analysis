@@ -3,8 +3,9 @@ name: idiot-index-analysis
 description: Calculate the ratio of final cost to raw material cost to identify cost reduction opportunities and assess manufacturing efficiency.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4200
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - idiot-index-analysis
